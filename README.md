@@ -28,7 +28,7 @@ An indication if additional members are welcome and, if relevant, what kind of e
    * responsibilities of each member, along with
    * a time-line of milestones, and
    * the expected outcome
-- The proposal pdf will be committed to fdac20/ProjectName/proposal.pdf
+- The proposal pdf will be committed to fdac21/ProjectName/proposal.pdf
 
 ## Notes 
 
