@@ -1,0 +1,9 @@
+<h1>Using Text Analysis to Identify Instances of Joke Poaching</h1>
+<p>In the world of stand up comedy, the idea of "joke poaching" is both frowned upon and feared. There are numerous cases[1] in which action is attempted formally, but because of the nature of jokes, its difficult to come to a legal distinction of joke ownership, which is why most of the "policing" regarding joke poaching is done informally. </p>
+<p>Techniques for authorship attribution of historical texts of unknown authorship exist[2] that entail building models using known works by the author in order to use machine learning to make preditions regarding who the author of an unknown text might be.</p>
+<p> The proposed project would entail looking at comedian's work and using that to build models of what that comedians stand up looks like. The models will be tested on both themselves, to determine if which jokes in the comidian's routines may have been poached, as well as jokes that are known not to belong to that comdian, with the hope that the model should be able to determine that that joke doesn't belong to them. In an ideal world, this model will work well enough that it could be used to make determining the legal ownership of jokes an easier task for official legal channels.</p>
+<p> Team Members: Walter Squires, Kyungchan Lim, Autumn Henderson </p>
+<p> Currently Seeking Members: No </p>
+  
+<p>[1] “Joke Poaching and Intellectual Property Law.” Centre for Intellectual Property Policy, www.cippmcgill.ca/news/2017/11/01/joke-poaching-and-intellectual-property-law/. </p>
+<p>[2] Petrovic, Smiljana & Berton, Gary & Campbell, Sean & Ivanov, Lubomir. (2015). Attribution of 18th Century Political Writings Using Machine Learning. Journal of Technologies in Society. 11. 1-13. 10.18848/2381-9251/CGP/v11i03/56506. </p>
