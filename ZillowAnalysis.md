@@ -5,4 +5,4 @@ The plan is to analyze market data via Zillow, which allows for web scraping of 
 This even has the potential to discover country-wide market trends. Given a list of major cities, which cities are the most expensive? Which cities have seen the fastest price increase over time, and which have the highest density of listings per square mile? These are all potential paths that we can take this project idea.
 
 ## Existing Members
-Vishal Aiely, Sehee Hwang, Selena Ya Xue
+Vishal Aiely, Sehee Hwang, Marc Muszik, Selena Ya Xue
