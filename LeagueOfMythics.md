@@ -9,7 +9,7 @@ a certain mythic item over another. We want to explore how successful this
 venture is, and other interesting finds of how these items are used by
 the player base.
 
-Team members: Reed Semmel, Allen Hughes, Pual Velas, and Greg
+Team members: Reed Semmel, Allen Hughes, Paul Velas, and Greg
 
 We might be able to take one more, and we would prefer if you are
 familiar with the game.
