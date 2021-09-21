@@ -4,4 +4,4 @@ In this project we are interested in assigning value to fantasy football positio
 
 ## Team Members
 
-We have four team members: Trent Florey, Jacob Duell, Caitlin Iadonisi, Parker Sherrill, and Jake Notowich
+We have five team members: Trent Florey, Jacob Duell, Caitlin Iadonisi, Parker Sherrill, and Jake Notowich
